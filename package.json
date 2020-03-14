@@ -1,0 +1,23 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "A lightweight webpack configuration for your next frontend project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavridiSS/webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "babel"
+  ],
+  "author": "Georgi Mavridis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavridiSS/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/mavridiSS/webpack-starter#readme"
+}
