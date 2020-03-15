@@ -1,3 +1,5 @@
+import "./styles.css";
+
 alert("TEST");
 
 const a = [1, 2, 3];
